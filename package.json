@@ -2,9 +2,9 @@
   "name": "minecraft-bot",
   "version": "1.0.0",
   "description": "Un bot de Minecraft para conectarse a un servidor y realizar acciones automáticas.",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
